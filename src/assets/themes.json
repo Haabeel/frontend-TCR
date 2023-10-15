@@ -1,0 +1,42 @@
+{
+  "darkMode": {
+    "colorPalette": {
+      "background": "#1E1E1E",
+      "navbarBackground": "#292929",
+      "mainText": "#FFFFFF",
+      "paraText": "#B0B0B0",
+      "buttons": "#D4AF37",
+      "forms": "#333333",
+      "sidebarBackground": "#232323",
+      "additionalFields": "#181818"
+    },
+    "colorScheme": {
+      "primary": "#D4AF37",
+      "secondary": "#333333",
+      "accent": "#B0B0B0"
+    }
+  },
+  "lightMode": {
+    "colorPalette": {
+      "background": "#FFFFFF",
+      "navbarBackground": "#F5F5F5",
+      "mainText": "#333333",
+      "paraText": "#777777",
+      "buttons": "#D4AF37",
+      "forms": "#F0F0F0",
+      "sidebarBackground": "#EAEAEA",
+      "additionalFields": "#DDDDDD"
+    },
+    "colorScheme": {
+      "primary": "#D4AF37",
+      "secondary": "#1C110A",
+      "accent": "#1C2826"
+    }
+  },
+  "fonts": {
+    "mainTitle": "Great Vibes",
+    "headings": "Playfair Display",
+    "body": "Lora",
+    "import": "https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lora&family=Playfair+Display&display=swap"
+  }
+}
